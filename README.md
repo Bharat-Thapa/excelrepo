@@ -1,1 +1,1 @@
-This repository contains a Microsoft Excel project
+This repository contains Microsoft Excel projects
